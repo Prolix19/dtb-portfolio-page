@@ -15,6 +15,10 @@ form {
     margin-right: auto;
 }
 
+body {
+    background-color: #fafafa;
+}
+
 @media screen and (max-width: 796px) {
     #contact {
         width: 75%

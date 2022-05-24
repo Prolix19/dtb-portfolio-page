@@ -8,6 +8,10 @@
     font-size: 50px;
 }
 
+body {
+    background-color: #fafafa;
+}
+
 @media screen and (max-width: 391px) {
     
     #port{
