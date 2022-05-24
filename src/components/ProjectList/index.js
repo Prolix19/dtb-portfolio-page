@@ -12,7 +12,7 @@ function ProjectList() {
         <section className="container">
             <Project 
             title="Budget Tracker"
-            pic={budgettracker} // Update pictures
+            pic={budgettracker}
             alt="Budget Tracker"
             description="A budget tracker PWA that allows users to track their expenses and incomes. Users can add expenses and incomes, and view their current budget."
             technologies="HTML, CSS, JavaScript, Node.js, Heroku, MongoDB, IndexedDB"
