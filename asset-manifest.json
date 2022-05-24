@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dtb-portfolio-page/static/css/main.4e79b379.chunk.css",
+    "main.js": "/dtb-portfolio-page/static/js/main.501f051d.chunk.js",
+    "main.js.map": "/dtb-portfolio-page/static/js/main.501f051d.chunk.js.map",
+    "runtime-main.js": "/dtb-portfolio-page/static/js/runtime-main.427bb718.js",
+    "runtime-main.js.map": "/dtb-portfolio-page/static/js/runtime-main.427bb718.js.map",
+    "static/css/2.9c6fb722.chunk.css": "/dtb-portfolio-page/static/css/2.9c6fb722.chunk.css",
+    "static/js/2.b83769a0.chunk.js": "/dtb-portfolio-page/static/js/2.b83769a0.chunk.js",
+    "static/js/2.b83769a0.chunk.js.map": "/dtb-portfolio-page/static/js/2.b83769a0.chunk.js.map",
+    "static/js/3.ad276603.chunk.js": "/dtb-portfolio-page/static/js/3.ad276603.chunk.js",
+    "static/js/3.ad276603.chunk.js.map": "/dtb-portfolio-page/static/js/3.ad276603.chunk.js.map",
+    "index.html": "/dtb-portfolio-page/index.html",
+    "static/css/2.9c6fb722.chunk.css.map": "/dtb-portfolio-page/static/css/2.9c6fb722.chunk.css.map",
+    "static/css/main.4e79b379.chunk.css.map": "/dtb-portfolio-page/static/css/main.4e79b379.chunk.css.map",
+    "static/js/2.b83769a0.chunk.js.LICENSE.txt": "/dtb-portfolio-page/static/js/2.b83769a0.chunk.js.LICENSE.txt",
+    "static/media/blog.dcd9c5a4.gif": "/dtb-portfolio-page/static/media/blog.dcd9c5a4.gif",
+    "static/media/budgettracker.54d88d4b.gif": "/dtb-portfolio-page/static/media/budgettracker.54d88d4b.gif",
+    "static/media/dayplanner.10f6916b.gif": "/dtb-portfolio-page/static/media/dayplanner.10f6916b.gif",
+    "static/media/dtb-résumé.pdf": "/dtb-portfolio-page/static/media/dtb-résumé.174cc203.pdf",
+    "static/media/notetaker.7e08a326.gif": "/dtb-portfolio-page/static/media/notetaker.7e08a326.gif",
+    "static/media/picture.jpg": "/dtb-portfolio-page/static/media/picture.e6aa4aeb.jpg",
+    "static/media/quiz.1b96e564.gif": "/dtb-portfolio-page/static/media/quiz.1b96e564.gif",
+    "static/media/weather.98c8716c.gif": "/dtb-portfolio-page/static/media/weather.98c8716c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.427bb718.js",
+    "static/css/2.9c6fb722.chunk.css",
+    "static/js/2.b83769a0.chunk.js",
+    "static/css/main.4e79b379.chunk.css",
+    "static/js/main.501f051d.chunk.js"
+  ]
+}
