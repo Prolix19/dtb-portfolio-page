@@ -1,0 +1,34 @@
+#contact {
+    background-color: lavender;
+    background-size: 100%;
+}
+
+#cTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+form {
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 796px) {
+    #contact {
+        width: 75%
+    }
+    .phone {
+        font-size: 15px;
+    }
+    .email {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 391px) {
+    #contact {
+        width: 60%;
+    }
+}

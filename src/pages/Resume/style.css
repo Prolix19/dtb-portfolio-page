@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+.rTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+main {
+    color: rgb(87,74,104);
+    background-color: lavender;
+}

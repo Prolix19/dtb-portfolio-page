@@ -1,0 +1,16 @@
+#port {
+    background-color: lavender;
+    background-size: 100%;
+}
+
+.pTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+@media screen and (max-width: 391px) {
+    
+    #port{
+        width: 60%;
+    }
+}
