@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dtb-portfolio-page/static/css/main.7500e3a2.chunk.css",
-    "main.js": "/dtb-portfolio-page/static/js/main.10f20606.chunk.js",
-    "main.js.map": "/dtb-portfolio-page/static/js/main.10f20606.chunk.js.map",
+    "main.js": "/dtb-portfolio-page/static/js/main.1bf0e442.chunk.js",
+    "main.js.map": "/dtb-portfolio-page/static/js/main.1bf0e442.chunk.js.map",
     "runtime-main.js": "/dtb-portfolio-page/static/js/runtime-main.427bb718.js",
     "runtime-main.js.map": "/dtb-portfolio-page/static/js/runtime-main.427bb718.js.map",
     "static/css/2.9c6fb722.chunk.css": "/dtb-portfolio-page/static/css/2.9c6fb722.chunk.css",
@@ -18,9 +18,9 @@
     "static/media/budgettracker.54d88d4b.gif": "/dtb-portfolio-page/static/media/budgettracker.54d88d4b.gif",
     "static/media/dayplanner.10f6916b.gif": "/dtb-portfolio-page/static/media/dayplanner.10f6916b.gif",
     "static/media/dtb-résumé.pdf": "/dtb-portfolio-page/static/media/dtb-résumé.174cc203.pdf",
+    "static/media/fixture.863b8da0.gif": "/dtb-portfolio-page/static/media/fixture.863b8da0.gif",
     "static/media/notetaker.7e08a326.gif": "/dtb-portfolio-page/static/media/notetaker.7e08a326.gif",
     "static/media/picture.jpg": "/dtb-portfolio-page/static/media/picture.e6aa4aeb.jpg",
-    "static/media/quiz.1b96e564.gif": "/dtb-portfolio-page/static/media/quiz.1b96e564.gif",
     "static/media/weather.98c8716c.gif": "/dtb-portfolio-page/static/media/weather.98c8716c.gif"
   },
   "entrypoints": [
@@ -28,6 +28,6 @@
     "static/css/2.9c6fb722.chunk.css",
     "static/js/2.b83769a0.chunk.js",
     "static/css/main.7500e3a2.chunk.css",
-    "static/js/main.10f20606.chunk.js"
+    "static/js/main.1bf0e442.chunk.js"
   ]
 }
