@@ -1,15 +1,25 @@
 import React from 'react';
 import Project from '../Project';
+import fixture from '../../assets/fixture.gif';
 import budgettracker from '../../assets/budgettracker.gif';
 import blog from '../../assets/blog.gif';
 import notetaker from '../../assets/notetaker.gif';
 import weather from '../../assets/weather.gif';
 import dayplanner from '../../assets/dayplanner.gif';
-import quiz from '../../assets/quiz.gif';
+
 
 function ProjectList() {
     return (
         <section className="container">
+            <Project 
+            title="Fixture"
+            pic={fixture}
+            alt="Fixture"
+            description="An ecommerce platform for merchants to sell digital goods."
+            technologies="HTML, CSS, JavaScript, JSX, Node, Express, React, MongoDB, GraphQL, Apollo, JSON Web Tokens, Stripe, bcrypt, and AWS SDK (S3 buckets)"
+            demo="https://peaceful-fjord-92696.herokuapp.com/"
+            repo="https://github.com/Meshtatsuo/Fixture"
+            />
             <Project 
             title="Budget Tracker"
             pic={budgettracker}
@@ -52,15 +62,6 @@ function ProjectList() {
             technologies="HTML, CSS, JavaScript, jQuery, Bootstrap, Moment.js, Google Fonts API"
             demo="https://prolix19.github.io/workday-planner/"
             repo="https://github.com/prolix19/workday-planner/"
-            />
-            <Project 
-            title="JavaScript Quiz"
-            pic={quiz}
-            alt="JavaScript Quiz"
-            description="A timed coding quiz related to JavaScript, with several multiple choice questions."
-            technologies="HTML, CSS, JavaScript, Moment.js"
-            demo="https://prolix19.github.io/js-fundamentals-quiz/"
-            repo="https://github.com/Prolix19/js-fundamentals-quiz"
             />
         </section>
     );
